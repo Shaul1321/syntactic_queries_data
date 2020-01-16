@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "My tensor",
+      "tensorShape": [
+        2952,
+        768
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/Shaul1321/syntactic_queries/master/vecs.tsv?token=ADSJVHY3H7YI77BV3U2JZB26EDCSO",
+	      "metadataPath": "https://raw.githubusercontent.com/Shaul1321/syntactic_queries/master/labels.tsv?token=ADSJVHYS4X4I4ELSRNIUGZK6EDCUC"
+    }
+  ]
+}
